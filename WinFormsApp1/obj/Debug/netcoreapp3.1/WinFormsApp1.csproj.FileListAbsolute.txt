@@ -1,0 +1,17 @@
+D:\Systemprograms\vs\game\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+D:\Systemprograms\vs\game\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+D:\Systemprograms\vs\game\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+D:\Systemprograms\vs\game\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+D:\Systemprograms\vs\game\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+D:\Systemprograms\vs\game\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+D:\Systemprograms\vs\game\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Systemprograms\vs\game\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+D:\Systemprograms\vs\game\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+D:\Systemprograms\vs\game\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Systemprograms\vs\game\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Systemprograms\vs\game\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+D:\Systemprograms\vs\game\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Systemprograms\vs\game\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+D:\Systemprograms\vs\game\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+D:\Systemprograms\vs\game\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+D:\Systemprograms\vs\game\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Properties.Resources.resources
